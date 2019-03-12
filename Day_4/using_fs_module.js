@@ -12,3 +12,4 @@ fs.readdir('./', function(err, files){
     else console.log('Async read', files);
 }
 );
+
